@@ -1,4 +1,4 @@
-# Neon Butterfly 🦋✨
+# Neon Butterfly;༊
 
 A generative art script written in Python using Turtle Graphics and Tkinter Canvas. It procedurally draws an intricate, glowing neon butterfly using mathematical functions, randomized vector strokes, and custom color gradients.
 
@@ -7,7 +7,7 @@ A generative art script written in Python using Turtle Graphics and Tkinter Canv
 
 ---
 
-## 🌟 Visual Features
+## Visual Features
 
 - **Mathematical Curve Generation:** Uses a modified parametric butterfly equation to determine structural coordinate layouts.
 - **Neon Color Gradients:** Smooth RGB color transitions shifting from cyan blue to bright purple and deep violet.
@@ -15,7 +15,7 @@ A generative art script written in Python using Turtle Graphics and Tkinter Canv
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 - **Python 3.x**
 - Standard Python libraries (no external `pip` packages required):
@@ -30,7 +30,7 @@ A generative art script written in Python using Turtle Graphics and Tkinter Canv
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone or Download
 Save the code into a Python file named `neonn.py`.
@@ -50,7 +50,7 @@ python3 neonn.py
 
 ---
 
-## 🎨 How It Works
+## How It Works
 
 1. **Polar Coordinate Math:** The core shape is computed via trigonometric functions combining exponential cosine and power-sine terms to calculate radius values per angle.
 2. **Deterministic Randomness:** Uses a fixed random seed (`rng = r.Random(12)`) so the art piece renders consistently across different runs while maintaining organic variations.
